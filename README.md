@@ -1,16 +1,14 @@
-### Hi there 👋
+![header](https://user-images.githubusercontent.com/104768915/166252983-45a754f8-7b8b-4f1e-8c07-dc71ae490c05.png)
 
-<!--
-**SKAT07/SKAT07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hello	&#128075;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I am learning programming languages like
+&#9989; Python <br>
+&#9989; HTML/CSS <br>
+&#9989; JavaScript <br>
+&#9989; PHP <br>
+
+
+### Links to my social networks
+Вконтакте: https://vk.com/valer4ik07
